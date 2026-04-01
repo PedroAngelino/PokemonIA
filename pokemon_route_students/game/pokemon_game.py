@@ -1,6 +1,6 @@
 import random
 from pyswip import Prolog
-from game.pokemon_fuzzy import calculate_prob
+from pokemon_route_students.game.pokemon_fuzzy import calculate_prob
 
 class PokemonGame:
 
