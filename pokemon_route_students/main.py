@@ -1,6 +1,6 @@
 from gui.pokemon_gui import PokemonGUI
 from gui.starter_gui import StarterGUI
-from pokemon_route_students.game.pokemon_game import PokemonGame
+from game.pokemon_game import PokemonGame
 
 def main():
 
