@@ -1,5 +1,5 @@
 import numpy as np
-import skfuzzy as fuzz
+
 from skfuzzy import control as ctrl
 
 # 1. Definição do Universo e Variáveis (Mantendo o que o teu colega fez)
